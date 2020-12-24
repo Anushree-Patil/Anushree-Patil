@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Laravel**.
 
-- 👨‍💻 All of my projects are available at [here](http://pratikrupani.000webhostapp.com/).
+- 👨‍💻 All of my projects are available at [here]().
 
 - 💬 Ask me about **Python, Web Development, Data Science**.
 
 - 📫 How to reach me: **anushreepatil5957@gmail.com**.
 
-- 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
+- 📄 Know about my experiences [here]().
 
 - ⚡ Fun fact: **I am a trained Classical Kathak dancer.**
 
