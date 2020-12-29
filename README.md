@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **anushreepatil5957@gmail.com**.
 
-- 📄 Know about my experiences [here]().
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jLrZkPsCzjg6M6iDdPqN9uewOJLM6I5N/view?usp=sharing).
 
 - ⚡ Fun fact: **I am a trained Classical Kathak dancer.**
 
