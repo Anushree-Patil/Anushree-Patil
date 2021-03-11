@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushree Patil</h1>
-<h3 align="center">A Computer Science undergraduate constantly looking to learn & develop something different and new.</h3>
+<h3 align="center">A Computer Science undergraduate. I interrogate data hard enough and make it tell whatever I want to hear.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushree-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Anushree-Patil" /> </p>
 
@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working at **Gyrix Technolabs**.
+- 🔭 I’m currently working on **NLP, OpenCV, Scikit-Learn, NLTK**.
 
-- 🌱 I’m currently learning **Laravel**.
+- 🌱 I’m currently learning **Neural Network**.
 
 - 👨‍💻 All of my projects are available at [here]().
 
