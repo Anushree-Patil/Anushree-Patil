@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [here]().
 
-- 💬 Ask me about **Python, Web Development, Data Science**.
+- 💬 Ask me about **Python, Data Science, Machine Learning, NLP**.
 
 - 📫 How to reach me: **anushreepatil5957@gmail.com**.
 
