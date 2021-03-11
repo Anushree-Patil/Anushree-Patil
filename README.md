@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **NLP, OpenCV, Scikit-Learn, NLTK**.
+- 🔭 I’m currently working on **Data Science, Data Analysis, Computer Vision, Machine Learning**.
 
 - 🌱 I’m currently learning **Neural Network**.
 
