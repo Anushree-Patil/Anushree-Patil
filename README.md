@@ -40,5 +40,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushree-Patil&show_icons=true&locale=en" alt="Anushree-Patil" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree-Patil&" alt="Anushree-Patil" />
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree-Patil&" alt="Anushree-Patil" />-->
 </p>
