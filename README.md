@@ -24,14 +24,12 @@
 - ⚡ Fun fact: **I am a trained Classical Kathak dancer.**
 
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
 
 
 <h3 align="left">Connect with me:</h3>
-[<img align="left" alt="Anushree Patil | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Anushree Patil | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-
+<p align="left">
+<a href="https://www.linkedin.com/in/anushree-patil-0611b2158/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pratik-rupani" height="30" width="40" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
