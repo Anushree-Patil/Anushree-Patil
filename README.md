@@ -21,6 +21,11 @@
 
 - ⚡ Fun fact: **I am a trained Classical Kathak dancer.**
 
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/anushree-patil-0611b2158/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anushree-patil" height="30" width="40" /></a>
