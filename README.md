@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anushree-patil-0611b2158/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pratik-rupani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anushree-patil-0611b2158/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pratik-rupani"  width="40px" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
