@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Neural Network**.
 
-- 👨‍💻 All of my projects are available at [here]().
+- 👨‍💻 All of my projects are available at [here](https://github.com/Anushree-Patil?tab=repositories).
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, NLP**.
 
